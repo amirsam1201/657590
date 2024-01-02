@@ -1,3 +1,4 @@
 red
 blue
 yellow
+violet

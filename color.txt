@@ -1,3 +1,5 @@
 red
 blue
 yellow
+color1 github
+color2 github
